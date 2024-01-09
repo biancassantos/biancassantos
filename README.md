@@ -12,7 +12,7 @@
 
 <div align="center">
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancassantos&show_icons=true&hide=contribs&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=137980&bg_color=eff1f5)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancassantos&show_icons=true&hide=contribs&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancassantos&layout=compact&title_color=137980&bg_color=eff1f5)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
 
