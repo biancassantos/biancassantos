@@ -22,7 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 -- **Tools:** <br>
-[![My Skills](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
 
 -- **Currently studying:** <br>
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
