@@ -4,31 +4,22 @@
 
 <div align="center">
  
- 💜 RJ, Brasil
+ 💜 Brasil
  
- 🍇 Beginner Front-End dev
+ 🍇 Front-End Developer
 
  </div>
 
 <div align="center">
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancassantos&show_icons=true&hide=contribs&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancassantos&layout=compact&title_color=137980&bg_color=eff1f5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancassantos&layout=compact&title_color=137980&bg_color=eff1f5)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
 
 ---
 
--- **Main Skills:** <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-
--- **Tools:** <br>
-[![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
-
--- **Currently studying:** <br>
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-
--- **Other knowledge:** <br>
-
+-- **Skills:** <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,vscode)](https://skillicons.dev)
 
 ---
 
