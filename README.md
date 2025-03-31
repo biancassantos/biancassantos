@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <p>👩🏽‍💻 Front-End Developer | 💻 <a href="https://biancassantos.github.io/portfolio/">Portfólio</a> | 📓 Software Engineering Student</p>
+    <p>👩🏽‍💻 Front-End Developer | 💻 <a href="https://biancasantosportfolio.vercel.app/" target="_blank">Portfolio</a> | 📓 Software Engineering Student</p>
 </div>
 
 <br>
