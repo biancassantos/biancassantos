@@ -3,13 +3,14 @@
 </h1>
 
 <div align="center">
-    <p>👩🏽‍💻 Front-End Developer | 💻 <a href="https://biancasantosportfolio.vercel.app/" target="_blank">Portfolio</a> | 📓 Software Engineering Student</p>
+    <p>👩🏽‍💻 Front-End Developer | 📓 Software Engineering Student</p>
 </div>
 
 <br>
 
 <div align="center">
 
+![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancassantos&show_icons=true&title_color=A19AD3&bg_color=transparent&icon_color=A19AD3&hide_title=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancassantos&layout=compact&title_color=A19AD3&bg_color=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
