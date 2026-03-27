@@ -9,7 +9,7 @@
   <tr>
     <td align="left" width="55%">
 
-👩🏽‍💻 Desenvolvedora FullStack  
+👩🏽‍💻 Desenvolvedora Full Stack  
 
 📓 Estudante de Engenharia de Software  
 
