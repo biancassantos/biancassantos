@@ -1,42 +1,60 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=A19AD3&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏾;+I'm+Bianca+Santos!;" />
+<!-- Greeting -->
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=A19AD3&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏾;+I'm+Bianca+Santos!;" />
 </h1>
 
-<div align="center">
-    <p>👩🏽‍💻 Front-End Developer | 📓 Software Engineering Student</p>
-</div>
+<!-- Tabela -->
+<table width="100%">
+    <!-- Esquerda -->
+  <tr>
+    <td align="left" width="55%">
+
+👩🏽‍💻 Desenvolvedora FullStack  
+
+📓 Estudante de Engenharia de Software  
+
+🌐 Participante da 17ª edição do Vem Ser DBC
 
 <br>
 
-<div align="center">
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancassantos89/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biancassantos89@gmail.com)
 
-![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancassantos&show_icons=true&title_color=A19AD3&bg_color=transparent&theme=transparent&icon_color=A19AD3&hide_title=true)
+  </td>
+  
+  <!-- Direita -->
+  <td align="center" width="45%">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancassantos&layout=compact&title_color=A19AD3&bg_color=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+  </td>
+  </tr>
+</table>
 
 <br>
-<br>
 
-<div align="center">
+<!-- Tecnologias -->
+## Front-end
+
+<div>
     
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,react,redux,nextjs,css,sass,tailwind,bootstrap)
 
 </div>
 
----
+## Back-end
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/biancassantos89" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:biancassantos89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,oracle,mysql,postgres)
+
 </div>
+
+## Ferramentas
+
+<div>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,jest,junit,figma)
+    
+</div>
+
